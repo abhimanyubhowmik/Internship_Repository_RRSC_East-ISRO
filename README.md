@@ -49,8 +49,13 @@ Comparison of the matrices (A) PSNR Values, (B) SSIM Values, (C) RMSE Values
 </p>
   
 
-## Internship Final Report:
-[Final_Report_RRSC_East.pdf](Reports/Final_Report_RRSC_East.pdf)
+## Quick Links:
+
+
+[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://doi.org/10.1002/itl2.395) 
+[![dataset](https://img.shields.io/badge/Internship-LOR-blue)](https://www.kaggle.com/competitions/ieee-fraud-detection) 
+[![dataset](https://img.shields.io/badge/Installation-Manual-red)](https://github.com/abhimanyubhowmik/DBNex/tree/main/Data_and_Model)
+[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1mL79WjyZKTuVd0xXJUCqsT4LImveNArbrmySNEe2f4o/edit?usp=sharing) 
 
 
 ## References Used:
