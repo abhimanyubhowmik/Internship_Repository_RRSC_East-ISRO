@@ -52,7 +52,7 @@ Comparison of the matrices (A) PSNR Values, (B) SSIM Values, (C) RMSE Values
 ## Quick Links:
 
 
-[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://doi.org/10.1002/itl2.395) 
+[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/abhimanyubhowmik/Internship_Repository_RRSC_East-ISRO/blob/main/Reports/Final_Report_RRSC_East.pdf) 
 [![LOR](https://img.shields.io/badge/Internship-LOR-blue)](https://github.com/abhimanyubhowmik/Internship_Repository_RRSC_East-ISRO/blob/main/Documents/Letter%20of%20Recomendation.pdf) 
 [![manual](https://img.shields.io/badge/Installation-Manual-red)](https://github.com/abhimanyubhowmik/Internship_Repository_RRSC_East-ISRO/blob/main/Documents/Installation%20Manual.pdf)
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1mL79WjyZKTuVd0xXJUCqsT4LImveNArbrmySNEe2f4o/edit?usp=sharing) 
