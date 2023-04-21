@@ -2,7 +2,7 @@
 Deep Neural Networks</h1>
 
 <p align="center">
-<img src="Images/nrsc_logo.png" width="" height="">
+<img src="Images/nrsc_logo.png" width="1000" height="">
 </p>
 
 ## Abstract:
